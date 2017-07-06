@@ -10,7 +10,7 @@
 #import "LDEventModel.h"
 #import "LDFlagConfigModel.h"
 #import "NSDictionary+JSON.h"
-#import "EventSource.h"
+#import "DarklyEventSource/EventSource.h"
 
 @interface LDClientManager()
 
